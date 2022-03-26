@@ -1,5 +1,81 @@
-# Chemistry Through Time
+<!-- Logo -->
+<h1 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Simple_Periodic_Table_Chart-blocks.svg" height="250px" width="400px" alt="Chemistry Through Time">
+  <br>
+  Chemistry Through Time
+  <br>
+</h1>
 
-This is an open source, web timeline template that has most of the important people for our Science class' grade 9 Chemistry timeline.
+<!-- Copy -->
+<h4 align="center">An open source, web timeline that has most of the important dates for my personal Grade 9 Science project.</h4>
 
-Credits for images and scientific information can be found in the [Research PDF](https://github.com/willtheorangeguy/Chemistry-Through-Time/blob/master/assets/creds.pdf).
+<!-- Badges -->
+<div align="center">
+    <!-- Issues -->
+  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/willtheorangeguy/Chemistry-Through-Time">
+  <!-- Pull Requests -->
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/willtheorangeguy/Chemistry-Through-Time">
+  <!-- Downloads -->
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/willtheorangeguy/Chemistry-Through-Time/total">
+  <!-- Language Count -->
+  <img alt="GitHub Languages" src="https://img.shields.io/github/languages/count/willtheorangeguy/Chemistry-Through-Time">
+</div>
+
+<!-- Navigation -->
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits & Contributors</a>
+</p>
+
+## Key Features
+
+* Chemistry Colour Scheme
+* Timeline Page
+* Titles, Descriptions and Images for Each Date
+* Modern Icons
+* Bibliography and Citations Links
+
+## Download
+
+You can **[download](https://github.com/willtheorangeguy/Chemistry-Through-Time/archive/refs/heads/master.zip) the source code** to run the website locally on Windows, macOS and Linux.
+
+You can also access the **production version the website**, available on all platforms, **[here](https://willtheorangeguy.github.io/Chemistry-Through-Time/)**.
+
+## Credits
+
+This software uses the following open source packages, projects, services or websites:
+
+<!-- Credits Table -->
+<table>
+  <tr>
+    <th align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150" height="150" alt="GitHub"/></th>
+    <th align="center"><img src="https://www.drupal.org/files/project-images/font_awesome_logo.png" width="150" height="150" alt="Font Awesome"/></th>
+    <th align="center"><img src="https://ps.w.org/easy-google-fonts/assets/icon-256x256.png?rev=2562365" width="150" height="150" alt="Google Fonts"/></th>
+    <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Commons-logo-en.svg" width="150" height="150" alt="Wikimedia Commons"/></th>
+  </tr>
+  <tr>
+    <td align="center">GitHub Pages</td>
+    <td align="center">Font Awesome</td>
+    <td align="center">Google Fonts</td>
+    <td align="center">Wikimedia Commons</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/">Web</a> - <a href="https://github.com/pricing">Plans</a></td>
+    <td align="center"><a href="https://fontawesome.com/">Web</a> - <a href="https://fontawesome.com/plans">Plans</a></td>
+    <td align="center"><a href="https://fonts.google.com/">Web</a></td>
+    <td align="center"><a href="https://commons.wikimedia.org/wiki/Main_Page">Web</a> - <a href="https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=CA&uselang=en-ca&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_foundation.wikimedia.org">Donate</a></td>
+  </tr>
+</table>
+
+More credits and contributors can be found on the [Credits page](https://willtheorangeguy.github.io/Chemistry-Through-Time/assets/creds.pdf). Research credits can be found on the the [Bibliography page](https://willtheorangeguy.github.io/Chemistry-Through-Time/assets/creds.pdf).
+
+## Contributors
+
+* [@willtheorangeguy](https://github.com/willtheorangeguy)
+
+## You may also like...
+
+* [Coronavirus Teacher Thank You](https://github.com/willtheorangeguy/Canada-Through-Time) - A project for my Robotics class that also serves as a thank you to all my teachers for teaching during this time of Online Learning.
+* [Canada Through Time](https://github.com/willtheorangeguy/Canada-Through-Time) - Open source web timeline for a Grade 10 Socials project.
+* [Arduino Code](https://github.com/willtheorangeguy/Arduino-Code) - A backup of each day's Arduino code projects.
